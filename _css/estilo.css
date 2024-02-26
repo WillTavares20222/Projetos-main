@@ -1,0 +1,31 @@
+.Principal{
+    background-color: #41d154;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.teste{
+    text-align: justify;
+    color: yellow;
+}
+
+.imgoculos{
+    border: 2px solid red;
+    box-shadow: 2px 2px 2px;
+}
+
+img{
+    
+    height: 315px;
+    border: 8px solid #000];
+    
+}
+p{
+
+    color: aliceblue;
+    text-indent: 50px;
+}
+
+
+h2{
+    color: aliceblue;
+}
